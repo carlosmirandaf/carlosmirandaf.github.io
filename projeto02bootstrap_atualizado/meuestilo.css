@@ -1,0 +1,37 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: calibri;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+  font-family: calibri;
+}
+
+p {
+  font-family: calibri;
+  font-size: 20px;
+}
+
+th {
+  font-family: calibri;
+}
+
+td {
+  font-family: calibri;
+}
+
+li {
+  font-family: calibri;
+  font-size: 20px;
+}
+
+form {
+  font-family: calibri;
+}
